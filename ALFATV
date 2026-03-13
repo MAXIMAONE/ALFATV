@@ -1,0 +1,207 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="268857" tvg-id="CanalOnce.mx" tvg-name="LOC MEX || CANAL ONCE" tvg-logo="http://alfastr3am.lat:2082/images/cKIrXskxa78aRnCUZMxfryu_gx9niHqzQXvK2AJbS0Tn06PhTBHj-pSo5KTmer6XhG29bP6SiwFYgxTFihm1ONs0owPdwnjfpIVTZ_5weq8.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || CANAL ONCE
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UmJTw39gU5cY10JiSA8J0O27doo7bdbAuhjyIOJeaKuO/ts
+#EXTINF:-1 xui-id="268846" tvg-id="" tvg-name="LOC MEX || ESTRELLA TV" tvg-logo="https://i.ibb.co/BVyQ9Gdy/estrella-tv.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || ESTRELLA TV
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrcDoJCvT6NEgnyGuI1dj1nStdxBglJ7z6GEqjB9B2TD/ts
+#EXTINF:-1 xui-id="266219" tvg-id="" tvg-name="LOC MEX || ONCE KIDS" tvg-logo="http://alfastr3am.lat:2082/images/cKIrXskxa78aRnCUZMxfrwyBhfIgWRj45OabdsrSfKiTAPOwpt7zgl8hw0nOjcpJ-tE6t81IrEsh79sHTwoW2BEePgGjPhQGNe2MHi5_fQI.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || ONCE KIDS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UosCDbAlvycyzvNs_Dy1LVHo2X9YTtZrShgjqlt5mzg_/ts
+#EXTINF:-1 xui-id="268862" tvg-id="" tvg-name="LOC MEX || TELEMAX" tvg-logo="http://alfastr3am.lat:2082/images/cKIrXskxa78aRnCUZMxfr_x_cIyTdPNFPEQCwCyGJBHfrmA6VaIG_9GxAiXk-Qo48vdZTKg01sezE87XLwI_F3Xzcphw3rMx7zPLp7eLOk4.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || TELEMAX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Unp7HCy5N7ys17aQbLuTy7eEunq4eOL_O_IWCmsj2TTt/t
+#EXTINF:-1 xui-id="268860" tvg-id="" tvg-name="LOC MEX || CANAL 10" tvg-logo="http://alfastr3am.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8NAiFpIDrTcGyQrsOPGjwyuXrON3mfPIZ0-zqWpmS6PNiocyapoNg6KU2GfHJSDAX2GSBOFVMYXLhTD7RtCrqB8.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || CANAL 10
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Unp7HCy5N7ys17aQbLuTy7cC9NX528xfiZ_yaEsqMoYA/ts
+#EXTINF:-1 xui-id="234785" tvg-id="TLNovelas.mx" tvg-name="NOV || TLNOVELAS" tvg-logo="http://alfastr3am.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8Cmr3n_HhbSj-rYUB8fehfHz2VGo4ImAmKgOiPwgMGnvskioFwfB0BInqmqAl8DY9-fNPVtHXq-rpQFgXlb_ynM.png" group-title="TV || TELENOVELAS",NOV || TLNOVELAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqLuizM0OAEuCKUxByDXIhRXh5eloVg0v-D7L1tkde64/ts
+#EXTINF:-1 xui-id="511460" tvg-id="" tvg-name="DEP FULL || NFL NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4Y_1L66GpuCmhyM2_wUiKrd224z79nW475wQvJXKgW4P.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || NFL NETWORK
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UsBv0x5n4QSJOhUKnLcRjs3nuHyVe6JZdlYwGgvLIAcc/ts
+#EXTINF:-1 xui-id="519433" tvg-id="TNTNovelas.mx" tvg-name="NOV || TNT NOVELAS" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4bxRwjCYqEtTgqikZM8gBHsFiFaNFfsblx_jN2LWwlEY.png" group-title="TV || TELENOVELAS",NOV || TNT NOVELAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiT88NfuRT6MGh-nN0tEt4YaNRh_yuDLArNF8utO45oi/ts
+
+
+
+
+
+#EXTINF:-1 xui-id="520266" tvg-id="AztecaUno.mx" tvg-name="CP || AZTECA UNO" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF6ecTMHZft0fsCUQRsGqavr4XgpYqJSIscjbKarbRiBq.png" group-title="TV || CANALES PREMIUM",CP || AZTECA UNO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UlOtUXsoqkM6RKUVdnExYDlGY77mafQ7vPaJb_sy__6e/ts
+#EXTINF:-1 xui-id="522351" tvg-id="LasEstrellas.mx" tvg-name="CP || LAS ESTRELLAS" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4aDY9fI-dPQ6P-jjhMJIB5PMjRAllSmpwOnr2joCYJhq.png" group-title="TV || CANALES PREMIUM",CP || LAS ESTRELLAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UkHZFHqTNs-UdEZKeX1YMBs4_8gq2BHvSkYPzvjCSQKh/ts
+#EXTINF:-1 xui-id="520267" tvg-id="Azteca7.mx" tvg-name="CP || AZTECA 7" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4Zk1ar4H3lNCxovhvdCzm62KJ_xKWs51pXKZVuEvXcGg.png" group-title="TV || CANALES PREMIUM",CP || AZTECA 7
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UlOtUXsoqkM6RKUVdnExYDmfKOY5OqVwqpf_YG28Y1ot/ts
+#EXTINF:-1 xui-id="520263" tvg-id="" tvg-name="CP || AZTECA CINEMA" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4QxW-mpHv2kouRl2LM6qfxo4d0AotAHir31UJn2fJJXE.png" group-title="TV || CANALES PREMIUM",CP || AZTECA CINEMA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UlOtUXsoqkM6RKUVdnExYDmz_ZVgZfv_V3p10faZ5VAX/ts
+#EXTINF:-1 xui-id="520258" tvg-id="AnimalPlanet.mx" tvg-name="CP || ANIMAL PLANET" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4e70HLvDSmgSRhpjHPmixshYIudQ_erYQyfWSRJqqMjh.png" group-title="TV || CANALES PREMIUM",CP || ANIMAL PLANET
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UsVh1xN-UKJpB8M3QBszD8K7XZjUutbIpbnt7Tvob-fE/ts
+#EXTINF:-1 xui-id="520261" tvg-id="AXN.mx" tvg-name="CP || AXN" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4ax_IjPXygilXLYpZvbZmFAV1kQM1VTUgfQvnkj3Zisn.png" group-title="TV || CANALES PREMIUM",CP || AXN
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UlOtUXsoqkM6RKUVdnExYDkHVvbrzL9v1x5OVh605nKZ/ts
+
+
+
+#EXTINF:-1 xui-id="520278" tvg-id="CartoonNetwork.mx" tvg-name="CP || CARTOON NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4Sphd1e2-hR5j18Tf6c_ag09fU2FwsedX2dRcG1gqmWc.png" group-title="TV || CANALES PREMIUM",CP || CARTOON NETWORK
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqqM51pBnPzJxucadYcjDCFGQJkTsUM2OlmC4ORSBRaO/ts
+#EXTINF:-1 xui-id="520283" tvg-id="Cinemax.mx" tvg-name="CP || CINEMAX" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4TUmGr4CdoJvmfNf9o5IvUUvo7hqHItTRfVsmreNr6K1.png" group-title="TV || CANALES PREMIUM",CP || CINEMAX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ujla1Jkq2KmfT62DfvlTo8f1qQOxsYwQCo9ZgsM89vEL/ts
+#EXTINF:-1 xui-id="520287" tvg-id="" tvg-name="CP || CLARO SPORTS" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftFydWeJi4Ic9T1w_TQZXmqAGtk_gogvjW2xU3DMxP2oa5.png" group-title="TV || CANALES PREMIUM",CP || CLARO SPORTS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ujla1Jkq2KmfT62DfvlTo8cApDpuRBNkf9HOFOukrAMk/ts
+#EXTINF:-1 xui-id="520294" tvg-id="DiscoveryChannel.mx" tvg-name="CP || DISCOVERY CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4eCqkNHVfsgkP3pbxcHE03-iHhz007Zb8m6OtiD6iaDw.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ujc1NW9d3HQUthwSRK8JkjXKR_y97Z0-E_dVDbYCTfrB/ts
+#EXTINF:-1 xui-id="520298" tvg-id="DiscoveryTurbo.mx" tvg-name="CP || DISCOVERY TURBO" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF_7PE74wkUAtXTXJVMaNH33_yoZwv8Xcvz5PIhGL1MYr.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY TURBO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ujc1NW9d3HQUthwSRK8JkjWU0qAhoW3MqolENnoJ74_j/ts
+#EXTINF:-1 xui-id="520299" tvg-id="DiscoveryWorld.mx" tvg-name="CP || DISCOVERY WORLD" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4USHUi_TpcVAQ12r0qlRmfnew6TvAJjTP0e-OXb3-szW.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY WORLD
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ujc1NW9d3HQUthwSRK8JkjWXlNiE_o5nnEHy0AKmXLf-/ts
+#EXTINF:-1 xui-id="520331" tvg-id="History2.mx" tvg-name="CP || HISTORY 2" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4eGNMnay21kOIw1kTX8PINdwTZb7DFWxTaxiiFyk3XAC.png" group-title="TV || CANALES PREMIUM",CP || HISTORY 2
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UjmXOKuTzjp4zp0TzGoLfOIyM2idqeFvlE4DUdP1A0AE/ts
+#EXTINF:-1 xui-id="520340" tvg-id="" tvg-name="CP || HGTV" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF_ArJhp_Pj2vn-VS7knsccKBexMvQmKHNSRRuUoToeJL.png" group-title="TV || CANALES PREMIUM",CP || HGTV
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ug9R-FnwQNH9hNnQNC6iPTq6uQfXps7mmyQrynWNf556/ts
+#EXTINF:-1 xui-id="520342" tvg-id="History.mx" tvg-name="CP || HISTORY CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF8g3HHZpDwez4VMmMIL-MDX14lQ_vnaatT_inD8KcooN.png" group-title="TV || CANALES PREMIUM",CP || HISTORY CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ug9R-FnwQNH9hNnQNC6iPToPtEPue49O6g6SOBKiyvjb/ts
+#EXTINF:-1 xui-id="520347" tvg-id="InvestigationDiscovery.mx" tvg-name="CP || INVESTIGATION DISCOVERY" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4WpIcwqksq0ryrNh_VvKmxvWTIb6DBn0zI_CyAIzu4kP.png" group-title="TV || CANALES PREMIUM",CP || INVESTIGATION DISCOVERY
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ug9R-FnwQNH9hNnQNC6iPTrcvdXsTcbEr8mJwU4h_rdw/ts
+#EXTINF:-1 xui-id="520348" tvg-id="" tvg-name="CP || KANAL D DRAMA" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4UVwP2QQ0YTBncfWNYLG5ctOIukOerVhD1t-r8BeJytS.png" group-title="TV || CANALES PREMIUM",CP || KANAL D DRAMA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ug9R-FnwQNH9hNnQNC6iPTpysjfLOr_XkEaWO2a2niPz/ts
+#EXTINF:-1 xui-id="520371" tvg-id="Sony.mx" tvg-name="CP || SONY CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4UJ8nSuT-6TJS9xNm8C4PWY67Y9hnOQYDIGEroJUG7Ux.png" group-title="TV || CANALES PREMIUM",CP || SONY CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWePH_BDCZmKXKzQ-4V3U_Xn8/ts
+#EXTINF:-1 xui-id="520372" tvg-id="Space.mx" tvg-name="CP || SPACE" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4fUxMJU1S1BmLpd2gqzmhPUU-gmrZEbhV-N82ekTxohe.png" group-title="TV || CANALES PREMIUM",CP || SPACE
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWeOEMj8x5AsVsH8FudiSeBt2/ts
+#EXTINF:-1 xui-id="520373" tvg-id="StarChannel.mx" tvg-name="CP || STAR CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4U4rM1F2YMFdhBQLguN5vLBScgZv8vPo_o9COk599d2m.png" group-title="TV || CANALES PREMIUM",CP || STAR CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWeOYB4X9E4TIJn9FSLrBfmU8/ts
+#EXTINF:-1 xui-id="520377" tvg-id="Telemundo.mx" tvg-name="CP || TELEMUNDO" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF9k08xG6DUIW7Ap34NJeF2lTjn0JfoVjtVQ5NlBfXPZK.png" group-title="TV || CANALES PREMIUM",CP || TELEMUNDO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWeNAlNbH5Me8Idjm2155Oafo/ts
+#EXTINF:-1 xui-id="520378" tvg-id="TLC.mx" tvg-name="CP || TLC" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4VIizXCRB4BAjtIf37fPsXmRCL4UlIftuCW2mBSlhMjF.png" group-title="TV || CANALES PREMIUM",CP || TLC
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWeMLEdkLu2p3jMdVL3M44MRq/ts
+#EXTINF:-1 xui-id="520379" tvg-id="TNT.mx" tvg-name="CP || TNT" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4QVwm6_n8CAKXHCud2u5CFR2NgG9WJcarByUkmhTZfx5.png" group-title="TV || CANALES PREMIUM",CP || TNT
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UgsQBhviVTCyj8znte2QWeMbZ9QDsZIeqb-dRu5xvc0F/ts
+#EXTINF:-1 xui-id="520380" tvg-id="TNTNovelas.mx" tvg-name="CP || TNT NOVELAS" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4dUkdop4LS6GwFdU8S3RsjtXtDn1Y9DL37lIWnK1JSbv.png" group-title="TV || CANALES PREMIUM",CP || TNT NOVELAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ut3DQ4uLlgUyOBbwJDezYpdetbXpOk9WVrPAhzTW77cz/ts
+#EXTINF:-1 xui-id="520381" tvg-id="TNTSeries.mx" tvg-name="CP || TNT SERIES" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4dKhGwXuCPy2dlJuZz0RbdrglR3ypED6aFFgzSy2YJpr.png" group-title="TV || CANALES PREMIUM",CP || TNT SERIES
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ut3DQ4uLlgUyOBbwJDezYpflJQRRmpO5Mk0j-BmavgXr/ts
+#EXTINF:-1 xui-id="520395" tvg-id="WarnerChannel.mx" tvg-name="CP || WARNER CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4RztoKJ2J4vxnqFSeAf8SJq0up_LMHd-SXDWwK_vEmSe.png" group-title="TV || CANALES PREMIUM",CP || WARNER CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Upqt5DPD6-MAUl5ngRo4EQUmVNIZGprHZjYJf5A0QOGg/ts
+#EXTINF:-1 xui-id="523882" tvg-id="A&E.mx" tvg-name="CP || A&E" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4ZFcV-6cG7FQV5CsF-i_6Izsm6PhLlxIS0ex0E3wYDU-.png" group-title="TV || CANALES PREMIUM",CP || A&E
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrKRH6SD-PtHeBVuND53kv78BMhkYED6S5xAEAwl0nas/ts
+#EXTINF:-1 xui-id="523885" tvg-id="AMC.mx" tvg-name="CP || AMC" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4eeyEyn2_6SwCsTY4uJ69oRZ6QmV1eSoLhK0P6IFQP54.png" group-title="TV || CANALES PREMIUM",CP || AMC
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrKRH6SD-PtHeBVuND53kv7sOkLHfOEL8TqhzQ64qckE/ts
+
+
+
+#EXTINF:-1 xui-id="523897" tvg-id="Cinecanal.mx" tvg-name="CP || CINECANAL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4fAbBy8rAAM_FbGcTr69Ur2xr70-IvvsHpknMH_Mm7BU.png" group-title="TV || CANALES PREMIUM",CP || CINECANAL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiKW9xW7JCrgMc_blpcLF8GfOJOiuSK5Rxxrh07MHQk0/ts
+#EXTINF:-1 xui-id="523905" tvg-id="DiscoveryKids.mx" tvg-name="CP || DISCOVERY KIDS" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftFwbwnb2s8GlWqhnomvyOj_CUFzAcF54P-tZsk4KHvaIR.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY KIDS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ul3ec_j9VOSofU5TlJE9GiDX7Chrqlx9a-tqY57N3Gmw/ts
+#EXTINF:-1 xui-id="523906" tvg-id="DisneyChannel.mx" tvg-name="CP || DISNEY CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4duB_mnB37dv7k5puokDvZIXyW8OBgjH7JrP62gYbSjS.png" group-title="TV || CANALES PREMIUM",CP || DISNEY CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Ul3ec_j9VOSofU5TlJE9GiAhPFmy9bZmnAteJ5JbDmvA/ts
+#EXTINF:-1 xui-id="523954" tvg-id="DiscoveryScience.mx" tvg-name="CP || DISCOVERY SCIENCE" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4aign8_XiFXFJu-JS6ithPju1CUm95PjXMUAtb_9-8BU.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY SCIENCE
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UjIGB8no3GmLw-rZLHzE3ZkUMt8JNKEkxRDstXXkYMDd/ts
+#EXTINF:-1 xui-id="523963" tvg-id="DiscoveryTheater.mx" tvg-name="CP || DISCOVERY THEATER" tvg-logo="http://alfastr3am.lat:2082/images/dsAt8cMDBjbP3mVNdeYR4UVItbcf4kZwRw4vSvDnWY5Hezosaw0NdE7g0LZx5D2i.png" group-title="TV || CANALES PREMIUM",CP || DISCOVERY THEATER
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtLMNSsM_h2BEQU_hm-uUD2-4uKoYRRAJf-40X2aIaos/ts
+#EXTINF:-1 xui-id="540399" tvg-id="Canal5.mx" tvg-name="CP || CANAL 5" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEZ-6rxaGjZkqE7o6qTOxYWcLmkr7E-wc0pakwXEY8HMF.png" group-title="TV || CANALES PREMIUM",CP || CANAL 5
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UhshFRqspxVqkVg8wXxqn4284DLX4pvshTHd3qsxCW2N/ts
+#EXTINF:-1 xui-id="542535" tvg-id="" tvg-name="DEP FULL || NHL NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEUhf5UHTOsVYShe_GiDb_S2UKd4UpdgGplvYIhG91yS4.jpg" group-title="TV || PACK DEPORTES FULL",DEP FULL || NHL NETWORK
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UlMoBia-1kF1aQqO3hRop_jOOuRTi80UQGBSdjbjB1CU/ts
+#EXTINF:-1 xui-id="542692" tvg-id="" tvg-name="NOV || PASIONES" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeETsL9R_s0Il9KXFb09QG1qknpvlItrED3Ehw3li-ur3m.png" group-title="TV || TELENOVELAS",NOV || PASIONES
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Unbgc0jh68RnFNNfdXJtrb72DvTE_n813QFkVAUQPIO_/ts
+#EXTINF:-1 xui-id="542693" tvg-id="" tvg-name="NOV || RCN NOVELAS" tvg-logo="http://alfastr3am.lat:2082/images/4zRxN6BvvA70Fa_bAvtiiXNDa_TPE4pNycg4f2UVfYE.png" group-title="TV || TELENOVELAS",NOV || RCN NOVELAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Unbgc0jh68RnFNNfdXJtrb6KGfb854-G3SxitunAeeh1/ts
+#EXTINF:-1 xui-id="545764" tvg-id="" tvg-name="F1 || F1 FOX SPORTS PREMIUM" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEaPH2QAVHBOiv1-vDOTytls.png" group-title="TV || F1",F1 || F1 FOX SPORTS PREMIUM
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uom8AmFogeyVNogSEuso2TLyN80tBxUwiXWu9cgkwRRH/ts
+#EXTINF:-1 xui-id="545769" tvg-id="" tvg-name="F1 || F1 SKY SPORTS" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEaPH2QAVHBOiv1-vDOTytls.png" group-title="TV || F1",F1 || F1 SKY SPORTS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uom8AmFogeyVNogSEuso2TLSa4iBFNdYjDS9XWX4QUDe/ts
+#EXTINF:-1 xui-id="550109" tvg-id="FOXSports2.mx" tvg-name="[AMAZON] Fox sports 2 MX" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEYRN-lhb1LvhVbVMzer4D3KAgXUgQ8KpT5fyct-TQn2N.png" group-title="TV || AMAZON TV",[AMAZON] Fox sports 2 MX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Us6tIvLfuXYynLlF7Mz0w01KJ3Rz71x4zXqdlnbB61Ih/ts
+#EXTINF:-1 xui-id="550110" tvg-id="FOXSports3.mx" tvg-name="[AMAZON] Fox sports 3 MX" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEYRN-lhb1LvhVbVMzer4D3KAgXUgQ8KpT5fyct-TQn2N.png" group-title="TV || AMAZON TV",[AMAZON] Fox sports 3 MX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UvJHNt2cqNLdz7T9fy7uRYzwY5ZbtjHb05vFEuYZLk6B/ts
+#EXTINF:-1 xui-id="551207" tvg-id="" tvg-name="DEP FULL || CLARO SPORTS LATAM" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEdNfQOzplYErYjTK5AxtNzE.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || CLARO SPORTS LATAM
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uu9k1SxBaf5GjiRYTc3_0SJA52cwo6JC2PFXv02UTHgQ/ts
+#EXTINF:-1 xui-id="551213" tvg-id="" tvg-name="DEP FULL || DAZN F1" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEdyIXFu4XWNlnxKgHjpunHav3GVryeLxtRJaUYVnf6HU.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || DAZN F1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Untddl7v2CyZXC3x6mAY318zckGaS1Byj3zcvF1PFpEN/ts
+#EXTINF:-1 xui-id="551274" tvg-id="" tvg-name="DEP FULL || FOX SPORTS 3 ARGENTINA" tvg-logo="http://alfastr3am.lat:2082/images/4zRxN6BvvA70Fa_bAvtiiYm-uIyeSgLcQ5_7es9-Xd4.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || FOX SPORTS 3 ARGENTINA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrIGAoey8unvf9IBadtTQDKy6Pp5EF-y3rKToGITcxb1/ts
+#EXTINF:-1 xui-id="553501" tvg-id="" tvg-name="DEP FULL || UFC ACTION" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeERRJHhUtLMJQt8HZ3F1bP_Iz6ysEzZY08lriifnQ0jpV.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || UFC ACTION
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uq_n-wElSkO4dx3D8qNimGROl1n19-Lq4thJVAJHamdu/ts
+#EXTINF:-1 xui-id="553529" tvg-id="Canal6MultimediosMonterrey.mx" tvg-name="CANAL 6 || MONTERREY" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF1Puvtgxn0I051wZe53v45bmnNELHd6vRi1s8pMtCylg.png" group-title="TV || LOCALES DE MEXICO",CANAL 6 || MONTERREY
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uj4K5Gt9C7lf94uYMas5oXonBB9E5IsAanmOwBEMf49h/ts
+#EXTINF:-1 xui-id="559398" tvg-id="Bandamax.mx" tvg-name="MUSICA || BANDAMAX" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MC0kZCZ8Bu9SL2pSNQNi50Q.png" group-title="TV || MUSICA",MUSICA || BANDAMAX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqu9s3GKCisiuff4ivNke5L2wphcJ1UGdIXWlNJ70ZfX/ts
+#EXTINF:-1 xui-id="559399" tvg-id="MTV.mx" tvg-name="MUSICA || MTV" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MIb1ECht3Bo8_GpHkoDyF3A.png" group-title="TV || MUSICA",MUSICA || MTV
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqu9s3GKCisiuff4ivNke5JmX0dGZntLR1C2inVGePbA/ts
+#EXTINF:-1 xui-id="559407" tvg-id="" tvg-name="MUSICA || TELERITMO" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MKk4DhpPTDZhGgJd2gVGkEI.png" group-title="TV || MUSICA",MUSICA || TELERITMO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrIT29hY5A6g4jztLN4QdVbC6Xcnlvmm9ip5NBwxCZ57/ts
+#EXTINF:-1 xui-id="560048" tvg-id="ESPN.mx" tvg-name="CP || ESPN 1" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEV6o3e7ARV9RMwNirv3fGGbanO9B0SpdT0CyJKl7Yhhz.png" group-title="TV || CANALES PREMIUM",CP || ESPN 1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uo7EO-B80QsHBmfqiDaei0yjgeKjqNqvPGlZosiQ6thx/ts
+#EXTINF:-1 xui-id="562300" tvg-id="FOXSports.mx" tvg-name="CP || FOX SPORTS 1" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEQZdIApL--A6fhVGlslZD5vzBA9NOZ8mAXmISxz0uskQ.png" group-title="TV || CANALES PREMIUM",CP || FOX SPORTS 1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UuzbiHlAfX-CxbL96RgBuA9srrh-2kzwsyXnfzroUdjV/ts
+#EXTINF:-1 xui-id="562301" tvg-id="FOXSports2.mx" tvg-name="CP || FOX SPORTS 2" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEZvgY8EOZtwreK8hPZTk3lyEeOM2lWgdZfGdRR9ShCWi.png" group-title="TV || CANALES PREMIUM",CP || FOX SPORTS 2
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UuzbiHlAfX-CxbL96RgBuA8CUuUUmwzp-kuJPXC2Rso8/ts
+#EXTINF:-1 xui-id="562302" tvg-id="FOXSports3.mx" tvg-name="CP || FOX SPORTS 3" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF-7gCWiNDy5kXJ3xezL0WzMFUggwLNZB5MLyuZoN4M24.png" group-title="TV || CANALES PREMIUM",CP || FOX SPORTS 3
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UuzbiHlAfX-CxbL96RgBuA8t6NFwJa14BPc7HAfwM_fT/ts
+#EXTINF:-1 xui-id="562306" tvg-id="" tvg-name="CP || ESPN DEPORTES" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVrjAReHE505A7TjMES4CtKZmCcnwRRL7fvbGJKUo064.png" group-title="TV || CANALES PREMIUM",CP || ESPN DEPORTES
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UuzbiHlAfX-CxbL96RgBuA-_pCujpH852dyWbPJqANPd/ts
+#EXTINF:-1 xui-id="562320" tvg-id="ElNu9ve.mx" tvg-name="CP || NU9VE" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEcJQgOdEYrIpSBuBdwMGbOrZqStXvoEZX0rxWYroumR8.png" group-title="TV || CANALES PREMIUM",CP || NU9VE
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtEGrbaCrIAvCxzYESpQ9orLmHPwn3WMrYkcNK4V97IS/ts
+#EXTINF:-1 xui-id="562321" tvg-id="UniCable.mx" tvg-name="CP || UNICABLE" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEXZrfzZOvHumIRoCHFp34Epv0fJN2PKXWaJ2q8SP-k1y.png" group-title="TV || CANALES PREMIUM",CP || UNICABLE
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtEGrbaCrIAvCxzYESpQ9oqpvDZTBCUwo93Rf6vlMUk_/ts
+#EXTINF:-1 xui-id="562323" tvg-id="TUDNMexico.mx" tvg-name="CP || TUDN" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEZYOQPEbeZJIidfL2pB25PD8lP2SJAmqBFWPacp68-qf.png" group-title="TV || CANALES PREMIUM",CP || TUDN
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtEGrbaCrIAvCxzYESpQ9opwmEfY0_BWvWgKZfAxw6Et/ts
+#EXTINF:-1 xui-id="562324" tvg-id="FOXSportsPremium.mx" tvg-name="CP || FOX SPORTS PREMIUM" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEXmmtN1oX4DLDx1mxGxef-QJvzZXsnKV0LmwZNMlyhy1.png" group-title="TV || CANALES PREMIUM",CP || FOX SPORTS PREMIUM
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtEGrbaCrIAvCxzYESpQ9orAJ72QYN3oI0V0bEssRrHl/ts
+#EXTINF:-1 xui-id="579679" tvg-id="" tvg-name="DEP FULL || UFC NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/pxhsspwwAmW0PdZ5bre0NigtrQdyEJCoFTeAT0VRyyVzy3-ciusQL-saEyaG_6aYrfgQM2rZ_evxthLD2OXV98QR90814LwnNCskzj39rJY.png" group-title="TV || PACK DEPORTES FULL",DEP FULL || UFC NETWORK
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UrcYU746Tq7D9GAWZUl2UMn7AjPDjucaqZqBZ7qZDuMx/ts
+#EXTINF:-1 xui-id="601688" tvg-id="" tvg-name="F1 || F1 DAZN" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEaPH2QAVHBOiv1-vDOTytls.png" group-title="TV || F1",F1 || F1 DAZN
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UoCPRueRN120DcV2Bwrbq3h1fd2ZC8W4rA274flwZPyt/ts
+#EXTINF:-1 xui-id="632826" tvg-id="" tvg-name="UNIVISION || UNIVISION DALLAS" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEbYogE9IA-85so5LTaH4hhIqfMOg7TDZErzFK_C3Cre7.png" group-title="TV || UNIVISION",UNIVISION || UNIVISION DALLAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UhNRMqIb4JShI1uV0Py41Ak097o3dzDAW_7dGFDv3qER/ts
+#EXTINF:-1 xui-id="632828" tvg-id="" tvg-name="UNIVISION || UNIVISION LOS ANGELES" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEbYogE9IA-85so5LTaH4hhIqfMOg7TDZErzFK_C3Cre7.png" group-title="TV || UNIVISION",UNIVISION || UNIVISION LOS ANGELES
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UhNRMqIb4JShI1uV0Py41AlNyiaL45Fg-Fh0YO_b0Toe/ts
+#EXTINF:-1 xui-id="632882" tvg-id="" tvg-name="UNIMAS || UNIMAS" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEeWxG8GyKzThgeY1BgIOQRJq9cGRyAAusYIbrACgDPoU.png" group-title="TV || UNIMAS",UNIMAS || UNIMAS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uq53WYw5U63XjZS2Wtcewh5YqQ0tW-bTMiX0kutQywCK/ts
+#EXTINF:-1 xui-id="632901" tvg-id="" tvg-name="GALAVISION || GALAVISION ATLANTA" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEXO7S3oukLD9I1GQ6S6KwHSIBfLndjrJ0gilarikvvk_.png" group-title="TV || GALAVISION",GALAVISION || GALAVISION ATLANTA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UkutaNxyJ6lnwjCy4ZxfMIsQxN6kQMQUT0AlnuPTwMTY/ts
+#EXTINF:-1 xui-id="632912" tvg-id="" tvg-name="GALAVISION || GALAVISION SAN FRANCISCO" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEXO7S3oukLD9I1GQ6S6KwHSIBfLndjrJ0gilarikvvk_.png" group-title="TV || GALAVISION",GALAVISION || GALAVISION SAN FRANCISCO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uh2LNOjfKm_gwusTNENDAWTOTpFxc0kRR9sHrHg0IH9C/ts
+#EXTINF:-1 xui-id="633016" tvg-id="" tvg-name="DIRECTV || DIRECTV SPORTS+ ARGENTINA" tvg-logo="http://alfastr3am.lat:2082/images/4m_DVldD4jpxbtqHSr-fnp3otul7pgRmUbDHTiJk15g.png" group-title="TV || DIRECTV SPORTS",DIRECTV || DIRECTV SPORTS+ ARGENTINA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UnzdNP4BOoirUom6VCnNTXsS44kfnvbc1NU3B3_-NlsG/ts
+#EXTINF:-1 xui-id="633057" tvg-id="" tvg-name="TNT SPORTS || TNT SPORTS" tvg-logo="https://i.imgur.com/FOUaM92.png" group-title="TV || TNT SPORTS",TNT SPORTS || TNT SPORTS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uk3M8-r9IhBHDSxG_aehL7WULDdXjq-WAP8JSic-CFrQ/ts
+#EXTINF:-1 xui-id="633172" tvg-id="" tvg-name="DAZN || DAZN F1" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEdyIXFu4XWNlnxKgHjpunHav3GVryeLxtRJaUYVnf6HU.png" group-title="TV || DAZN",DAZN || DAZN F1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UogN1jTeAftPQ6nbRohXaOljLKGK1v6jGqVX6SrayEdu/ts
+#EXTINF:-1 xui-id="633268" tvg-id="" tvg-name="DEP FULL || LIGA 1" tvg-logo="http://alfastr3am.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8PXlZwRvSlMzO2Ika3yPceCUXt19lBHeQBkoe7CwL6LsHzVOsWyzoM5SYsILmRr5UvPAn8dN2Er8-eJO1CFsLew.png" group-title="TV || DEPORTES PERU",DEP FULL || LIGA 1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiYLEaKsNSPM7DKV7O4XYjz_S7hxdae0gkk6KQXX-mag/ts
+#EXTINF:-1 xui-id="670314" tvg-id="" tvg-name="BEIN SPORTS || BEIN SPORTS" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeERaYgNNfMJnB6dG2P5XWl_opVvXw6phuuXYYhsVUkIGg.png" group-title="TV || BEIN SPORTS",BEIN SPORTS || BEIN SPORTS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uk3SUj5-03Qya-bbUR2Exox1oRbC4iSKQ1X0x5ofRocg/ts
+#EXTINF:-1 xui-id="670349" tvg-id="" tvg-name="DIRECTV || DIRECTV SPORTS 1" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MCNRwXfyjk3PYyIz8vdfuUA.png" group-title="TV || DIRECTV SPORTS",DIRECTV || DIRECTV SPORTS 1
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UnbJ6zP5Wl4JQj4-69JAOzg1oydJU_dmOMB9rKUmQw5f/ts
+#EXTINF:-1 xui-id="670412" tvg-id="" tvg-name="SHOWTIME || SHOWTIME WEST" tvg-logo="https://i.imgur.com/HGIH8EU.png" group-title="TV || SHOWTIME",SHOWTIME || SHOWTIME WEST
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqhcVwGSzdg-5x1GN5Wex4MdRqqJ0Qzl5NXSUGUIcJGh/ts
+#EXTINF:-1 xui-id="670414" tvg-id="" tvg-name="SHOWTIME || SHOWTIME EAST" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MB23MHOQRFMlZ1QoNFsVvv8.png" group-title="TV || SHOWTIME",SHOWTIME || SHOWTIME EAST
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqhcVwGSzdg-5x1GN5Wex4MDH93ffQn-w7We8tOPSTe4/ts
+#EXTINF:-1 xui-id="670415" tvg-id="" tvg-name="SHOWTIME || SHOWTIME EXTREME" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MB23MHOQRFMlZ1QoNFsVvv8.png" group-title="TV || SHOWTIME",SHOWTIME || SHOWTIME EXTREME
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqhcVwGSzdg-5x1GN5Wex4PTQ-giJGIl00W4Eb0B4av_/ts
+#EXTINF:-1 xui-id="671285" tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" group-title="TV || 24/7 RETRO",LOS SIMPSON
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtZexKMFKMaEMi06wQtVSIoEOQgBLgdj1Oz7biRIfut1/ts
+#EXTINF:-1 xui-id="671727" tvg-id="" tvg-name="CP || ADULT SWIM" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MNEHLmt-MPy3x2gF6pk41Ac.png" group-title="TV || CANALES PREMIUM",CP || ADULT SWIM
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiO9SMRZpGrDDvPZakInH8zO15rXzHwd-Qlt7QBeYHAs/ts
+#EXTINF:-1 xui-id="671738" tvg-id="CNNenEspañol.mx" tvg-name="CP || CNN ESPAÑOL" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MKe0NRkCXSZBFqDJ1q2hQm8.png" group-title="TV || CANALES PREMIUM",CP || CNN ESPAÑOL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UucE1_LRT6LbDC7hOij72Thegf6ANOxankX4URClhXMD/ts
+#EXTINF:-1 xui-id="677480" tvg-id="" tvg-name="FOX ONE 1 MX" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MI24UoijjbvSnyA9zyRFUmk.png" group-title="TV || FOX ONE",FOX ONE 1 MX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Upten5qy7KGFtBrDFsuRZaX6-ZnK6yBuh3KEo2zYRB_o/ts
+#EXTINF:-1 xui-id="677482" tvg-id="" tvg-name="FOX ONE 2 MX" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MI24UoijjbvSnyA9zyRFUmk.png" group-title="TV || FOX ONE",FOX ONE 2 MX
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Upten5qy7KGFtBrDFsuRZaXZm5-4CIwuQdN5EiIHCRz-/ts
+#EXTINF:-1 xui-id="679632" tvg-id="" tvg-name="TELEMUNDO || TELEMUNDO BOSTON WNEU" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEcCu3LU2BFyG_QErW9SF0OtCEkqZnDtWTc_hLUJXhwb3.png" group-title="TV || TELEMUNDO",TELEMUNDO || TELEMUNDO BOSTON WNEU
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Urvu1SAJyGIYqzJ0tSJlZ2tHm0dsnZOT0a_OAhWVnZTB/ts
+#EXTINF:-1 xui-id="679633" tvg-id="" tvg-name="TELEMUNDO || TELEMUNDO CHICAGO WSNS" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEcCu3LU2BFyG_QErW9SF0OtCEkqZnDtWTc_hLUJXhwb3.png" group-title="TV || TELEMUNDO",TELEMUNDO || TELEMUNDO CHICAGO WSNS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Urvu1SAJyGIYqzJ0tSJlZ2ulg_-TKIj0kSxAtskQ7xVP/ts
+#EXTINF:-1 xui-id="679963" tvg-id="" tvg-name="Spain: Disney Channel FHD" tvg-logo="http://onerestream.us:80/images/aLrSSr8opOfsatCFPRL1s9XFlqoqWcGzwdCt3EEiVCTphqxh8ilc1sH0vTDdN0PCxcSLH8e-K18jDRvVjzHBqzYzgvY6WUxa5D63WEgRMYKj2B9z2O9pV9VuAnBCUnRW0-zH91y-P6jpidbKHCEjNpMmVU4tH5sZKFu5AHj7GVY.png" group-title="TV || ESPAÑA",Spain: Disney Channel FHD
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UnAmMPLy_4zKRSYEBkYy46mbGnDtkyq6AZdRDqxqVuPa/ts
+
+
+ALFA
+
+
+
+
+
+
+
+
+
+
+
