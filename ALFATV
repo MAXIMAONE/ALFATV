@@ -180,9 +180,28 @@ http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Urvu1SAJyGIYqzJ0tSJlZ2tHm0ds
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Urvu1SAJyGIYqzJ0tSJlZ2ulg_-TKIj0kSxAtskQ7xVP/ts
 #EXTINF:-1 xui-id="679963" tvg-id="" tvg-name="Spain: Disney Channel FHD" tvg-logo="http://onerestream.us:80/images/aLrSSr8opOfsatCFPRL1s9XFlqoqWcGzwdCt3EEiVCTphqxh8ilc1sH0vTDdN0PCxcSLH8e-K18jDRvVjzHBqzYzgvY6WUxa5D63WEgRMYKj2B9z2O9pV9VuAnBCUnRW0-zH91y-P6jpidbKHCEjNpMmVU4tH5sZKFu5AHj7GVY.png" group-title="TV || ESPAÑA",Spain: Disney Channel FHD
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UnAmMPLy_4zKRSYEBkYy46mbGnDtkyq6AZdRDqxqVuPa/ts
+#EXTINF:-1 xui-id="684055" tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MDn5zFhigIGxGUIuyB73RtU.png" group-title="TV || INFANTIL MX",DISNEY CHANNEL
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiNY_41WIJWSguV29pGR-B-qY1IGGdzwfdAFAclp9Mo-/ts
+#EXTINF:-1 xui-id="684056" tvg-id="Dreamworks.mx" tvg-name="DREAMWORKS" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MK2Zi3fX_Xg5egCV966suPk.png" group-title="TV || INFANTIL MX",DREAMWORKS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiNY_41WIJWSguV29pGR-B-t-B2czEv_SWJ6qneLJHkG/ts
+#EXTINF:-1 xui-id="684057" tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MHc-_9PlR95ksAJgq_O5_vU.png" group-title="TV || INFANTIL MX",NICK JR
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiNY_41WIJWSguV29pGR-B8yshDjIVcj_k9bw9zFowH0/ts
+#EXTINF:-1 xui-id="684058" tvg-id="Tooncast.mx" tvg-name="TOONCAST" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MNvlz5RIqceoHZk4E2YL7hU.png" group-title="TV || INFANTIL MX",TOONCAST
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiNY_41WIJWSguV29pGR-B-_2jOmcmq2oaQjkFlag3Ic/ts
+#EXTINF:-1 xui-id="684121" tvg-id="Nick.mx" tvg-name="NICKELODEON" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MITuIiqXQib7cNRoyv7euyA.png" group-title="TV || INFANTIL MX",NICKELODEON
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Upu95RtkCp4xHtU98Q2uA60jgY-okKcU3MVHxj0hHvKq/ts
+#EXTINF:-1 xui-id="684122" tvg-id="DisneyJunior.mx" tvg-name="DISNEY JUNIOR" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MCebnl0LhGKlFC-m-uLdWNI.png" group-title="TV || INFANTIL MX",DISNEY JUNIOR
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Upu95RtkCp4xHtU98Q2uA63dI5X6ZsgPqcOStJwaxNSk/ts
+#EXTINF:-1 xui-id="685000" tvg-id="CartoonNetwork.mx" tvg-name="SD || CARTOON NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MGtr4bnEXvpdlcnegFwKVrU.png" group-title="TV || CANALES SD",SD || CARTOON NETWORK
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UqZcYSiF6M90zhVR9oIdw30rz0sPfzS7POlDTMJOoRaq/ts
+#EXTINF:-1 xui-id="685056" tvg-id="Telehit.mx" tvg-name="SD || TELEHIT" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MGtr4bnEXvpdlcnegFwKVrU.png" group-title="TV || CANALES SD",SD || TELEHIT
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UoIhYGD99hPxgCCMUeolY_fpHi3ecqUK6a8cEIgBIwlX/ts
+#EXTINF:-1 xui-id="682016" tvg-id="" tvg-name="MUSICA || EXA TV" tvg-logo="" group-title="TV || MUSICA",MUSICA || EXA TV
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UpOS57sH_U7eAaxOPNjBx2xt4YnJvOFzXZKVcWmEsgmi/ts
 
 
-ALFA
+
+ALFA 2
 
 
 
