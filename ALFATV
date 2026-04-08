@@ -1,5 +1,11 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="683780" tvg-id="DePelícula.mx" tvg-name="DE PELICULA" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF3OLecDSFD7D-A8yEvCqrai4Hkm6EqzYC7nBfluxFYzR.png" group-title="TV || CINE MX",DE PELICULA
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqtn2eMkYbdMjz0i7B79vqtqxrvH4SIcC1xEphgXXfVO/ts
+#EXTINF:-1 xui-id="683781" tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/GsyndLM/DE-PELICULA-CLASICO.png" group-title="TV || CINE MX",DE PELICULA CLASICO
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqtn2eMkYbdMjz0i7B79vqu6A9tg8HF3-ppceU-OiJtS/ts
+#EXTINF:-1 xui-id="683782" tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF1IlU8tNrl5I9i2mosfyTE_JUNpa6M4MY_eACOA5lPrP.png" group-title="TV || CINE MX",DE PELICULA PLUS
+http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqtn2eMkYbdMjz0i7B79vqsgV4-xnjWbJRX8D9Eh-5wj/ts
 #EXTINF:-1 xui-id="268857" tvg-id="CanalOnce.mx" tvg-name="LOC MEX || CANAL ONCE" tvg-logo="http://alfastr3am.lat:2082/images/cKIrXskxa78aRnCUZMxfryu_gx9niHqzQXvK2AJbS0Tn06PhTBHj-pSo5KTmer6XhG29bP6SiwFYgxTFihm1ONs0owPdwnjfpIVTZ_5weq8.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || CANAL ONCE
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UmJTw39gU5cY10JiSA8J0O27doo7bdbAuhjyIOJeaKuO/ts
 #EXTINF:-1 xui-id="268846" tvg-id="" tvg-name="LOC MEX || ESTRELLA TV" tvg-logo="https://i.ibb.co/BVyQ9Gdy/estrella-tv.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || ESTRELLA TV
@@ -140,7 +146,6 @@ http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UoCPRueRN120DcV2Bwrbq3h1fd2Z
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UoCPRueRN120DcV2Bwrbq3h1fd2ZC8W4rA274flwZPyt/ts
 #EXTINF:-1 xui-id="633268" tvg-id="" tvg-name="DEP FULL || LIGA 1" tvg-logo="http://alfastr3am.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8PXlZwRvSlMzO2Ika3yPceCUXt19lBHeQBkoe7CwL6LsHzVOsWyzoM5SYsILmRr5UvPAn8dN2Er8-eJO1CFsLew.png" group-title="TV || DEPORTES PERU",DEP FULL || LIGA 1
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UiYLEaKsNSPM7DKV7O4XYjz_S7hxdae0gkk6KQXX-mag/ts
-
 #EXTINF:-1 xui-id="671285" tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="http://alfastr3am.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVo4sSZtFoh0gw_wFa7NcMboG-M4_wv-LoVdlgV9tu37.png" group-title="TV || 24/7 RETRO",LOS SIMPSON
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UtZexKMFKMaEMi06wQtVSIoEOQgBLgdj1Oz7biRIfut1/ts
 #EXTINF:-1 xui-id="671727" tvg-id="" tvg-name="CP || ADULT SWIM" tvg-logo="http://alfastr3am.lat:2082/images/9OGZ_p-SCxrpcOb4irT5MNEHLmt-MPy3x2gF6pk41Ac.png" group-title="TV || CANALES PREMIUM",CP || ADULT SWIM
@@ -178,9 +183,7 @@ http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UpOS57sH_U7eAaxOPNjBx2xt4YnJ
 #EXTINF:-1 xui-id="681970" tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://alfastr3am.lat:2082/images/fKsQUCmJ8VBlMCugfItLPEZatYMxDeKQvn0zbdNKit3g42EsyNWUurSunIBwF1iw.png" group-title="TV || DEPORTES USA",MLB NETWORK
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0UoRmTvVsra7fYO-_huOvrf-yBlwqtiThau55pCJDFfgZ/ts
 
-
-
-ALFA 5
+ALFA 6
 
 
 
