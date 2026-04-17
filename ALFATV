@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
+https://stream.zeno.fm/z5ud5axf29htv
 #EXTINF:-1 xui-id="683780" tvg-id="DePelícula.mx" tvg-name="DE PELICULA" tvg-logo="http://alfastr3am.lat:2082/images/OEBzbsiDvRN2I9MR2xftF3OLecDSFD7D-A8yEvCqrai4Hkm6EqzYC7nBfluxFYzR.png" group-title="TV || CINE MX",DE PELICULA
 http://alfastr3am.lat:2082/play/KAv1ZBFBt6QzPErJwWB0Uqtn2eMkYbdMjz0i7B79vqtqxrvH4SIcC1xEphgXXfVO/ts
 #EXTINF:-1 xui-id="683781" tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/GsyndLM/DE-PELICULA-CLASICO.png" group-title="TV || CINE MX",DE PELICULA CLASICO
